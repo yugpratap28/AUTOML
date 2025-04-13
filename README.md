@@ -6,8 +6,6 @@ The **Auto Machine Learning (AutoML) Streamlit App** is an interactive web appli
 
 This project is designed to streamline the process of building machine learning models, enabling both data scientists and non-technical users to easily explore and analyze their datasets, compare various machine learning models, and select the most optimal one for prediction tasks.
 
-### **Live Demo**
-You can try the live demo of the application at: [AutoML Streamlit App](https://automl.streamlit.app/)
 
 ## Features
 
